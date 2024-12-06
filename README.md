@@ -1,5 +1,5 @@
 # RiskAssessmentApp
-*/ Målet med dette programmet er å gjøre det å gjennomføre en Risikoanalyse på sin arbeidsplass
+*/ Målet med dette programmet er å gjøre det lettere å gjennomføre en Risikoanalyse på sin arbeidsplass.
 1. Registere aktivitet
 2. Registere risikomomenter
 3. Gradere fra 0-5 i sannsynlighet
